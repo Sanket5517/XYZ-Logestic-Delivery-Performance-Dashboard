@@ -55,28 +55,28 @@ To monitor delivery performance, identify delays, analyze cost and fuel usage, a
 
 ## 🔄 Project Workflow
 
-```text
-Raw Logistics Data (CSV / Excel)
+📂 Raw Logistics Data (CSV / Excel)
             │
             ▼
-Data Cleaning & Preprocessing
+🧹 Data Cleaning & Preprocessing
 (Google Sheets / Excel)
             │
             ▼
-Exploratory Data Analysis
+📊 Exploratory Data Analysis
 (Formulas, Pivot Tables)
             │
             ▼
-Data Storage (Conceptual)
+🗄️ Data Storage (Conceptual)
 (MongoDB / NoSQL)
             │
             ▼
-Visualization & Explainability
+📈 Visualization & Explainability
 (Power BI Dashboards)
             │
             ▼
-Business Insights & Decision Support
+💡 Business Insights & Decision Support
 
+---
 
 ## 👨‍💻 Author
 **Sanket Jadhav**  
